@@ -377,6 +377,9 @@ section .title::after{
 .skills-content .right .python::before{
     width: 70%;
 }
+.skills-content .right .ml::before{
+    width:65%;
+}
 .skills-content .right .php::before{
     width: 50%;
 }
